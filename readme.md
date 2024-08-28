@@ -33,5 +33,7 @@ Hello! This project demonstrates the process of extracting data from the Tekken 
 	- Metadata: Provided an overview of key metadata from the posts.
 	- Most Scored by Flair: Visualized which flairs received the highest scores.
 
+![image](https://github.com/user-attachments/assets/022bb968-e900-4941-99c8-5315ae8661c1)
+
 The Looker Studio dashboard can be accessed here:
 https://lookerstudio.google.com/reporting/c58f420a-e8e4-4bc8-b876-e6b487e9210d/page/qrBAE
